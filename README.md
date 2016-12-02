@@ -6,6 +6,11 @@ http://calagator.org/events/1250471154
 This month, we'll be divide into teams and work together to build Yatzee. Can you and your team create a dice roller? Build a game loop? Awesome, how about multiplayer, and multi device? Websockets would be interesting to work with for this.
 
 
+About Yatzee
+=================
+http://grail.sourceforge.net/demo/yahtzee/rules.html
+https://en.wikipedia.org/wiki/Yahtzee
+
 
 About Portland MagicNight
 ===========================
