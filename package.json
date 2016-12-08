@@ -1,0 +1,19 @@
+{
+  "name": "yatzee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PortlandMagicNight/2016-12-7-Yatzee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PortlandMagicNight/2016-12-7-Yatzee/issues"
+  },
+  "homepage": "https://github.com/PortlandMagicNight/2016-12-7-Yatzee#readme"
+}
